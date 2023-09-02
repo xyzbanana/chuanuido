@@ -1,0 +1,1 @@
+$('#zone-0-4').html('<div class="adv" id="ads_4" style="margin-top:0px;margin-bottom:0px;"></div>');

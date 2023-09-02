@@ -1,0 +1,1 @@
+$('#zone-0-17').html('<div class="adv" id="ads_17" style="margin-top:10px;margin-bottom:20px;"><div class="e" style=""><a href="https://vatphamphatgiao.com/" target="_blank" rel="nofollow"><img src="https://i.ex-cdn.com/phatgiao.org.vn/files/qc/2023/05/20/ezgif-3-c81a9a99e2.gif" alt="Phật Giáo" /></a></div></div>');
