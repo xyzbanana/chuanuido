@@ -1,1 +1,0 @@
-$('#zone-0-33').html('<div class="adv" id="ads_33" style="margin-top:0px;margin-bottom:0px;"><div class="e" style=""><a href="https://daophatonline.com/" target="_blank" rel="nofollow"><img src="https://i.ex-cdn.com/phatgiao.org.vn/files/qc/2022/12/06/PCdaophatONLINE.gif" alt="Phật Giáo" /></a></div></div>');

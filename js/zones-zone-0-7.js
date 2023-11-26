@@ -1,1 +1,0 @@
-$('#zone-0-7').html('<div class="adv" id="ads_7" style="margin-top:20px;margin-bottom:20px;"><div class="e" style=""><a href="https://luxcomvietnam.vn/" target="_blank" rel="nofollow"><img src="https://i.ex-cdn.com/phatgiao.org.vn/files/qc/2023/06/02/bannerluxcomvietnam.gif" alt="Phật Giáo" /></a></div></div>');
